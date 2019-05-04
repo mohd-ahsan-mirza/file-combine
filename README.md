@@ -10,6 +10,7 @@ alias combine='python3 {Absolute path of file-combine folder}/run.py'
 To load the changes
 ```
 source ~/.bash_profile
+```
 #How To Use
 CD into the directory where all the files are
 ###Example usage
