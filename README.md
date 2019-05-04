@@ -11,9 +11,9 @@ To load the changes
 ```
 source ~/.bash_profile
 ```
-#How To Use
+# How To Use
 CD into the directory where all the files are
-###Example usage
+### Example usage
 ```
 combine DAT
 ```
